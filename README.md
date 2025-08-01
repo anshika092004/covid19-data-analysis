@@ -68,3 +68,12 @@ To analyze the spread and impact of COVID-19 globally and across Indian states, 
 This project provides a detailed COVID-19 analysis using Python, SQL, and Power BI. It features two dashboards — one offering global insights and the other focused on India — highlighting trends in cases, vaccinations, and demographics. The project covers the full data lifecycle: data cleaning, SQL querying, and interactive visualization, offering valuable insights into the pandemic's impact across regions and populations.
 
 ---
+
+
+## 📬 Contact
+
+**Anshika Sharma**  
+Aspiring Data Analyst | Passionate about turning data into insights
+
+📧 [Email](mailto:anshikasharma9104@gmail.com) | 🌐 [GitHub](https://github.com/anshika092004) | 💼 [LinkedIn](https://www.linkedin.com/in/anshika-sharma-20376125a/)
+---
