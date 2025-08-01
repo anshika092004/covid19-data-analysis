@@ -1,5 +1,4 @@
-# <img width="100" height="100" alt="virus" src="https://github.com/user-attachments/assets/4774f7c6-205b-46b1-8e85-e178154fc8b5" />
- COVID-19 Data Analysis and Visualization Project
+# <img width="100" height="100" alt="virus" src="https://github.com/user-attachments/assets/4774f7c6-205b-46b1-8e85-e178154fc8b5" /> COVID-19 Data Analysis and Visualization Project
 
 This end-to-end project explores the impact of COVID-19 at both global and Indian levels using data cleaning (Python), SQL querying, and interactive dashboards built in Power BI.
 
