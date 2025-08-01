@@ -29,6 +29,17 @@ To analyze the spread and impact of COVID-19 globally and across Indian states, 
 
 ---
 
+## 🔗 Data Sources
+Global COVID-19 Data: 
+- Our World in Data – COVID-19 Dataset
+
+India COVID-19 Data:
+- https://data.incovid19.org/csv/latest/case_time_series.csv
+- https://data.incovid19.org/csv/latest/states.csv
+- https://data.incovid19.org/csv/latest/state_wise_daily.csv
+- https://data.incovid19.org/csv/latest/districts.csv
+- https://data.incovid19.org/csv/latest/cowin_vaccine_data_statewise.csv 
+
 ## 📊 Dashboards Overview
 
 ### 🌍 Global COVID-19 Dashboard
